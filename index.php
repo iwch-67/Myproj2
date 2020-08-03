@@ -5,4 +5,4 @@
 <title>index</title>
 </head>
 <p>コンフリクト</p>
-another modification
+<p>conflict</p>
