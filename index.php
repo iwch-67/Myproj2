@@ -4,4 +4,6 @@
 <meta charset="utf-8">
 <title>index</title>
 </head>
-another modification
+<p>コンフリクト</p>
+<p>conflict</p>
+<p>pull request</p>
